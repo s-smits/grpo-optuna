@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+optuna
+peft
+trl
+wandb
